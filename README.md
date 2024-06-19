@@ -5,8 +5,7 @@ This is minimal Zettlekasten Template for Obisidian
     git clone https://github.com:mshadev/obisidan-template.git
 
 # Example usage
-
-![Instruction](.github/Obsidian.mp4)
+https://github.com/mshadev/obsidian-template/assets/86306055/68d1e2d3-60bb-4086-aff5-9899205c7147
 
 # How It's Used
 
