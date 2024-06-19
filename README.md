@@ -6,7 +6,7 @@ This is minimal Zettlekasten Template for Obisidian
 
 # Example usage
 
-[![Watch the video](.github/thumbnail.png)](.github/Obsidian.mp4)
+[![Watch the video](.github/thumbnail.png)](.github/Obsidian.gif)
 
 # How It's Used
 
